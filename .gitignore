@@ -1,0 +1,7 @@
+*.un~
+*.swp
+swap
+undo
+
+vimrc.local
+gvimrc.local
