@@ -67,3 +67,6 @@
 [submodule "bundle/vim-colors-monokai"]
 	path = bundle/vim-colors-monokai
 	url = https://github.com/sickill/vim-monokai.git
+[submodule "bundle/vim-jsx"]
+	path = bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
