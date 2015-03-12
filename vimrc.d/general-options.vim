@@ -32,12 +32,12 @@ set grepprg=LANG=C\ grep\
       \ --exclude=ext-all.js\
       \ --exclude=tags
 set hlsearch
+set history=100
 set ignorecase
 set incsearch
 set laststatus=2
 set lcs=eol:↩,trail:·,tab:»·
 set modelines=0
-set nocompatible
 set nowrap
 set number
 set regexpengine=1
