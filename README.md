@@ -8,6 +8,7 @@ vim-config
 ~ $ cd ~/.vim
 ~/.vim $ git submodule update --init
 ~/.vim $ mkdir swap
+~/.vim $ mkdir undo
 ```
 
 That's it.
