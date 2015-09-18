@@ -24,10 +24,14 @@ set grepprg=LANG=C\ grep\
       \ --exclude-dir=node_modules\
       \ --exclude-dir=source_maps\
       \ --exclude-dir=target\
+      \ --exclude-dir=logs\
+      \ --exclude=*.beam\
       \ --exclude=*.min.js\
       \ --exclude=*.pyc\
       \ --exclude=*.swp\
       \ --exclude=*.un~\
+      \ --exclude=.viminfo\
+      \ --exclude=.vimsession\
       \ --exclude=deps.js\
       \ --exclude=ext-all.js\
       \ --exclude=tags
@@ -53,7 +57,7 @@ set ttyfast
 set undofile
 set undodir=~/.vim/undo/
 set visualbell
-set wildignore+=build,bower_components,node_modules,target,release,*.beam,*.so,*.swp,*.zip,*.iml,.idea,*.pyc,*.min.js,tags,pkg,bin,*.a,*.test
+set wildignore+=build,bower_components,node_modules,target,release,logs,*.beam,*.so,*.swp,*.zip,*.iml,.idea,*.pyc,*.min.js,tags,pkg,bin,*.a,*.test,.viminfo,.vimsession
 set wildmenu
 set wildmode=list:longest
 
