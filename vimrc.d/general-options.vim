@@ -1,4 +1,4 @@
-colorscheme jellybeans
+colorscheme monokai
 
 filetype plugin indent on
 
@@ -42,6 +42,7 @@ set ignorecase
 set incsearch
 set laststatus=2
 set lcs=eol:↩,trail:·,tab:»·
+set linebreak
 set modelines=0
 set nowrap
 set number
