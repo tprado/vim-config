@@ -19,13 +19,13 @@ set grepprg=LANG=C\ grep\
       \ -n\
       \ --exclude-dir=.git\
       \ --exclude-dir=_build\
-      \ --exclude-dir=build\
-      \ --exclude-dir=release\
       \ --exclude-dir=bower_components\
+      \ --exclude-dir=build\
+      \ --exclude-dir=logs\
       \ --exclude-dir=node_modules\
+      \ --exclude-dir=release\
       \ --exclude-dir=source_maps\
       \ --exclude-dir=target\
-      \ --exclude-dir=logs\
       \ --exclude=*.beam\
       \ --exclude=*.min.js\
       \ --exclude=*.pyc\
