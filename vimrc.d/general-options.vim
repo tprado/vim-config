@@ -48,7 +48,7 @@ set nowrap
 set number
 set regexpengine=1
 set ruler
-set sessionoptions=buffers,curdir,folds,help,resize,winpos,winsize
+set sessionoptions=buffers,curdir,folds,help
 set shiftwidth=2
 set showcmd
 set showmatch
