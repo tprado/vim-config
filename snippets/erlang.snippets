@@ -1,2 +1,5 @@
 snippet iof
-	io:format("${1}", [${2}])${3}
+	io:format("${1}~n", [${2}])${3}
+
+snippet elf
+	error_logger:format("${1}~n", [${2}])${3}
