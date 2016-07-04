@@ -28,12 +28,6 @@
 [submodule "bundle/vim-addon-mw-utils"]
 	path = bundle/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "bundle/vim-less"]
-	path = bundle/vim-less
-	url = https://github.com/vim-scripts/vim-less
-[submodule "bundle/vim-soy"]
-	path = bundle/vim-soy
-	url = https://github.com/vim-scripts/vim-soy
 [submodule "bundle/vim-colors-jellybeans"]
 	path = bundle/vim-colors-jellybeans
 	url = https://github.com/nanotech/jellybeans.vim.git
@@ -64,9 +58,6 @@
 [submodule "bundle/vim-colors-monokai"]
 	path = bundle/vim-colors-monokai
 	url = https://github.com/sickill/vim-monokai.git
-[submodule "bundle/vim-jsx"]
-	path = bundle/vim-jsx
-	url = https://github.com/mxw/vim-jsx.git
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
