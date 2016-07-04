@@ -4,7 +4,6 @@ filetype plugin indent on
 
 set autoindent
 set autoread
-set autowrite
 set autowriteall
 set backspace=indent,eol,start
 set colorcolumn=80,120
@@ -14,6 +13,9 @@ set directory=~/.vim/swap//
 set encoding=utf-8
 set expandtab
 set exrc
+set foldlevelstart=10
+set foldmethod=syntax
+set foldtext=getline(v:foldstart)
 set gdefault
 set grepprg=LANG=C\ grep\
       \ -n\
