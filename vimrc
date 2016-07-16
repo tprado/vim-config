@@ -13,6 +13,7 @@ runtime vimrc.d/mappings.vim
 
 runtime vimrc.d/airline.vim
 runtime vimrc.d/ctrlp.vim
+runtime vimrc.d/dispatch.vim
 runtime vimrc.d/fugitive.vim
 runtime vimrc.d/gist.vim
 runtime vimrc.d/nerdtree.vim
