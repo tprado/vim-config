@@ -20,3 +20,4 @@ runtime vimrc.d/nerdtree.vim
 runtime vimrc.d/projectionist.vim
 runtime vimrc.d/syntastic.vim
 runtime vimrc.d/tagbar.vim
+runtime vimrc.d/vim-javascript.vim
