@@ -6,6 +6,7 @@ call pathogen#infect()
 runtime ftplugin/man.vim
 
 runtime vimrc.d/general-options.vim
+runtime vimrc.d/colors.vim
 
 runtime vimrc.d/abbreviations.vim
 runtime vimrc.d/auto-commands.vim
