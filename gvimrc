@@ -1,6 +1,6 @@
 colorscheme monokai
 
-set guifont=Monospace\ 12
+set guifont=Ubuntu\ Mono\ 14
 
 set guioptions -=m
 set guioptions -=T
