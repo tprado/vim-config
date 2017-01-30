@@ -20,6 +20,8 @@ set gdefault
 set grepprg=LANG=C\ grep\
       \ -n\
       \ --exclude-dir=.git\
+      \ --exclude-dir=.gradle\
+      \ --exclude-dir=.idea\
       \ --exclude-dir=_build\
       \ --exclude-dir=bower_components\
       \ --exclude-dir=build\
