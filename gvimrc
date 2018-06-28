@@ -1,5 +1,6 @@
-colorscheme monokai
+colorscheme solarized
 
+set background=light
 set guifont=Ubuntu\ Mono\ 14
 
 set guioptions -=m
