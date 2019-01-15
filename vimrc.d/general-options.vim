@@ -1,4 +1,4 @@
-colorscheme solarized
+colorscheme monokai
 
 filetype plugin indent on
 
@@ -6,7 +6,7 @@ set autoindent
 set autoread
 set autowriteall
 set backspace=indent,eol,start
-set background=light
+set background=dark
 set colorcolumn=80,120
 set conceallevel=1
 set cursorline
