@@ -4,9 +4,6 @@
 [submodule "bundle/vim-surround"]
 	path = pack/git-plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "bundle/syntastic"]
-	path = pack/git-plugins/start/syntastic
-	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/nerdtree"]
 	path = pack/git-plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
@@ -82,3 +79,6 @@
 [submodule "bundle/vim-tmux-focus-events"]
 	path = pack/git-plugins/start/vim-tmux-focus-events
 	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
+[submodule "pack/git-plugins/start/ale"]
+	path = pack/git-plugins/start/ale
+	url = https://github.com/w0rp/ale.git
