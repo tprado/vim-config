@@ -1,6 +1,9 @@
 map <space> <leader>
 vmap <space> <leader>
 
+map ç <leader>
+vmap ç <leader>
+
 nnoremap <leader><space> :noh<cr>
 
 nnoremap <leader>q :bd<cr>

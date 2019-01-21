@@ -1,1 +1,1 @@
-map <buffer> çd gdf'gf
+map <leader>d gdf/gf
