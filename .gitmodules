@@ -37,9 +37,6 @@
 [submodule "bundle/vim-airline"]
 	path = pack/git-plugins/start/vim-airline
 	url = https://github.com/bling/vim-airline.git
-[submodule "bundle/rust"]
-	path = pack/git-plugins/start/rust
-	url = https://github.com/wting/rust.vim
 [submodule "bundle/vim-projectionist"]
 	path = pack/git-plugins/start/vim-projectionist
 	url = https://github.com/tpope/vim-projectionist
