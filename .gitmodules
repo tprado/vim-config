@@ -85,3 +85,6 @@
 [submodule "pack/git-plugins/start/vim-camel-case-motion"]
 	path = pack/git-plugins/start/vim-camel-case-motion
 	url = https://github.com/bkad/CamelCaseMotion
+[submodule "pack/git-plugins/start/vim-abolish"]
+	path = pack/git-plugins/start/vim-abolish
+	url = git://github.com/tpope/vim-abolish.git
