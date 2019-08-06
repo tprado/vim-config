@@ -11,6 +11,7 @@ runtime vimrc.d/mappings.vim
 
 runtime vimrc.d/airline.vim
 runtime vimrc.d/ale.vim
+runtime vimrc.d/camel-case-motion.vim
 runtime vimrc.d/ctrlp.vim
 runtime vimrc.d/dispatch.vim
 runtime vimrc.d/fugitive.vim
