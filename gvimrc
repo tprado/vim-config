@@ -1,7 +1,8 @@
-colorscheme monokai
+packadd! vim-color-onedark
+colorscheme onedark
 
 set background=dark
-set guifont=Ubuntu\ Mono\ 14
+set guifont=Ubuntu\ Mono\ 16
 
 set guioptions -=m
 set guioptions -=T

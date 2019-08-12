@@ -88,3 +88,6 @@
 [submodule "pack/git-plugins/start/vim-abolish"]
 	path = pack/git-plugins/start/vim-abolish
 	url = git://github.com/tpope/vim-abolish.git
+[submodule "pack/git-plugins/opt/vim-color-onedark"]
+	path = pack/git-plugins/opt/vim-color-onedark
+	url = https://github.com/joshdick/onedark.vim.git

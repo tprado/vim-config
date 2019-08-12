@@ -1,4 +1,5 @@
-colorscheme monokai
+packadd! vim-color-onedark
+colorscheme onedark
 
 filetype plugin indent on
 
@@ -62,6 +63,7 @@ set showmode
 set smartcase
 set softtabstop=2
 set tabstop=2
+set termguicolors
 set ttyfast
 set undofile
 set undodir=~/.vim/undo/
