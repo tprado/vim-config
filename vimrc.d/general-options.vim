@@ -1,6 +1,3 @@
-packadd! vim-color-onedark
-colorscheme onedark
-
 filetype plugin indent on
 
 set autoindent

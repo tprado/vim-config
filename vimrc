@@ -21,3 +21,6 @@ runtime vimrc.d/projectionist.vim
 runtime vimrc.d/tagbar.vim
 runtime vimrc.d/vim-javascript.vim
 runtime vimrc.d/tmux.vim
+
+packadd! vim-color-onedark
+colorscheme onedark
