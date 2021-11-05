@@ -16,30 +16,8 @@ set foldlevelstart=10
 set foldmethod=syntax
 set foldtext=getline(v:foldstart)
 set gdefault
-set grepprg=LANG=C\ grep\
-      \ -n\
-      \ --exclude-dir=.git\
-      \ --exclude-dir=.gradle\
-      \ --exclude-dir=.idea\
-      \ --exclude-dir=_build\
-      \ --exclude-dir=bower_components\
-      \ --exclude-dir=build\
-      \ --exclude-dir=ebin\
-      \ --exclude-dir=logs\
-      \ --exclude-dir=node_modules\
-      \ --exclude-dir=release\
-      \ --exclude-dir=source_maps\
-      \ --exclude-dir=target\
-      \ --exclude=*.beam\
-      \ --exclude=*.min.js\
-      \ --exclude=*.pyc\
-      \ --exclude=*.swp\
-      \ --exclude=*.un~\
-      \ --exclude=.viminfo\
-      \ --exclude=.vimsession\
-      \ --exclude=deps.js\
-      \ --exclude=ext-all.js\
-      \ --exclude=tags
+set grepprg=ag\ --vimgrep\ $*
+set grepformat=%f:%l:%c:%m
 set hlsearch
 set history=100
 set ignorecase

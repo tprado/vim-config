@@ -1,4 +1,5 @@
 set nocompatible
+set clipboard=unnamedplus,unnamed
 
 runtime ftplugin/man.vim
 
