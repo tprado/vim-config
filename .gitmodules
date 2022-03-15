@@ -94,3 +94,6 @@
 [submodule "pack/git-plugins/start/haskell-vim"]
 	path = pack/git-plugins/start/haskell-vim
 	url = https://github.com/neovimhaskell/haskell-vim.git
+[submodule "pack/git-plugins/start/vim-terraform"]
+	path = pack/git-plugins/start/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
